@@ -1,4 +1,5 @@
 # 🛒 Customer Value Segmentation – RFM Analysis (Woolworths Chip Category)
+Slide Link: http://bit.ly/4mPrmXr
 
 ## 📖 Project Overview
 
@@ -24,7 +25,8 @@ The goal is to generate insights that support **customer retention**, **promotio
 
 <img width="1310" height="989" alt="image" src="https://github.com/user-attachments/assets/77021ac2-956f-422c-b415-57a5dd6acbde" />
 
-<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/288686fd-9beb-489c-b272-f4ba98ef9ea1" />
+<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/2e3263dc-ece6-40c5-9857-6ea1e71569c6" />
+
 
 ---
 
